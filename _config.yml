@@ -11,6 +11,9 @@ github_username:  felsig
 facebook_username:  
 email_username:  
 
+# Site override settings
+header-img-enabled: false
+
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
 # google_tracking_id:
